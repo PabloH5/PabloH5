@@ -1,4 +1,4 @@
-# Hello, I'm [Juan Pablo Martinez]! 👋
+# Hello, I'm Juan Pablo Martinez! 👋
 
 ## About Me 🛸
 Eighth-semester Multimedia Engineering student at Universidad Autónoma de Occidente, I thrive in the digital landscape where I mold the future of interactive entertainment. My code dances to the rhythm of **C#** and the innovative features of **Unity**, as I blend imagination with technology to shape immersive experiences.
