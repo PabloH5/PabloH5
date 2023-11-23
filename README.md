@@ -15,7 +15,7 @@ You can explore my portfolio of projects, which includes:
 
 ## Find Me Elsewhere 🔭
 - [LinkedIn](https://www.linkedin.com/in/yourlinkedinprofile)
-- [Portfolio](https://www.yourpersonalwebsite.com)
+- [Portfolio](https://github.com/PabloH5)
 
 ## Let's Build Something Amazing Together!
 I'm keen to collaborate on projects that fuse the dynamics of video games with the transformative potential of AI. If you're in the field of tech and game development, let's connect and innovate together.
