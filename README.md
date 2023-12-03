@@ -10,8 +10,8 @@ Eighth-semester Multimedia Engineering student at Universidad Autónoma de Occid
 
 ## Projects 🏁🛠️
 You can explore my portfolio of projects, which includes:
-- [El Golazo Champions](https://github.com/yourusername/El-Golazo-Champions) - Transform the passion of soccer into a Virtual Reality spectacle. Amidst the roaring crowd and the Champions League anthem, this project invites users to step into the shoes of their soccer heroes, crafting their signature cleats with "El Golazo".
-- [PeraHunter](https://github.com/yourusername/PeraHunter) - Dive into a 2D RPG adventure with a top-down perspective. Challenge yourself to strategize and conquer the enigmatic boss Furier using an arsenal of inventive attacks.
+- [El Golazo Champions](https://github.com/PabloH5/El-Golazo-Champions) - Transform the passion of soccer into a Virtual Reality spectacle. Amidst the roaring crowd and the Champions League anthem, this project invites users to step into the shoes of their soccer heroes, crafting their signature cleats with "El Golazo".
+- [PeraHunter](https://github.com/PabloH5/PeraHunter) - Dive into a 2D RPG adventure with a top-down perspective. Challenge yourself to strategize and conquer the enigmatic boss Furier using an arsenal of inventive attacks.
 
 ## Find Me Elsewhere 🔭
 - [LinkedIn](https://www.linkedin.com/in/yourlinkedinprofile)
