@@ -12,6 +12,7 @@ Eighth-semester Multimedia Engineering student at Universidad Autónoma de Occid
 You can explore my portfolio of projects, which includes:
 - [El Golazo Champions](https://github.com/PabloH5/El-Golazo-Champions) - Transform the passion of soccer into a Virtual Reality spectacle. Amidst the roaring crowd and the Champions League anthem, this project invites users to step into the shoes of their soccer heroes, crafting their signature cleats with "El Golazo".
 - [PeraHunter](https://github.com/PabloH5/PeraHunter) - Dive into a 2D RPG adventure with a top-down perspective. Challenge yourself to strategize and conquer the enigmatic boss Furier using an arsenal of inventive attacks.
+- [Food Hunter](https://github.com/PabloH5/Food-Hunter) - Is a dynamic, endless arcade game where players guide a ghost to catch falling food, gaining points and health from healthy items and avoiding harmful junk food. Ideal for all ages, it offers both fun and challenge in quick, engaging gameplay sessions.
 
 ## Find Me Elsewhere 🔭
 - [LinkedIn](https://www.linkedin.com/in/yourlinkedinprofile)
