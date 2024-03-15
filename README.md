@@ -11,9 +11,9 @@ Eighth-semester Multimedia Engineering student at Universidad Autónoma de Occid
 ## Projects 🏁🛠️
 You can explore my portfolio of projects, which includes:
 - [Interactive Portfolio](https://github.com/PabloH5/GamePortfolio) - This is my interactive portfolio. I have designed this space as a 2D game developed in Unity for you to explore my skills and projects in a unique, interactive, and fun way. Has some features like Built in Unity Engine 2D, Original assets and sprite creation, Gamification and Immersion and Retro Gameboy Theme.
-- [Thermo Racing](https://github.com/PabloH5/Thermo-Racing) - 👀 Coming soon... 
 - [El Golazo Champions](https://github.com/PabloH5/El-Golazo-Champions) - Transform the passion of soccer into a Virtual Reality spectacle. Amidst the roaring crowd and the Champions League anthem, this project invites users to step into the shoes of their soccer heroes, crafting their signature cleats with "El Golazo".
 - [PeraHunter](https://github.com/PabloH5/PeraHunter) - Dive into a 2D RPG adventure with a top-down perspective. Challenge yourself to strategize and conquer the enigmatic boss Furier using an arsenal of inventive attacks.
+- [Thermo Racing](https://github.com/PabloH5/Thermo-Racing) - 👀 Coming soon... Let Me Cook
 
 ## Find Me Elsewhere 🔭
 - [LinkedIn](https://www.linkedin.com/in/yourlinkedinprofile)
