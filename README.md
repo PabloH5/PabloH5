@@ -5,10 +5,9 @@ I'm Multimedia Engineering, I am passionate about developing video games and pla
 
 ## Projects 🏁🛠️
 You can explore my portfolio of projects, which includes:
-- [Interactive Portfolio](https://github.com/PabloH5/GamePortfolio) - This is my interactive portfolio. I have designed this space as a 2D game developed in Unity for you to explore my skills and projects in a unique, interactive, and fun way. Has some features like Built in Unity Engine 2D, Original assets and sprite creation, Gamification and Immersion and Retro Gameboy Theme.
-- [El Golazo Champions](https://github.com/PabloH5/El-Golazo-Champions) - Transform the passion of soccer into a Virtual Reality spectacle. Amidst the roaring crowd and the Champions League anthem, this project invites users to step into the shoes of their soccer heroes, crafting their signature cleats with "El Golazo". I was part of the team as a developer.
 - [Thermo Racing](https://github.com/PabloH5/Thermo-Racing) - Thermo Racing is an interactive multimedia system designed to aid engineering students in mastering the first and second laws of thermodynamics. This system utilizes gamification and real-time calculations to provide an engaging and practical learning experience through mini-games and competitive Go-Kart racing scenarios. I was part of the team as a developer in karts movement and scrum master.
 - [Catzzeria Delivery Service](https://pablitoh5.itch.io/catzzeria) This is a submission for the Game Jam + 24/25. In this 3D game, you take on the role of a cat delivering pizzas on a motorcycle while exploring a city that's randomly generated each game. Enjoy lo-fi music and customize your bike for a relaxing and unique experience. I was part of the project as developer in a random buildings spawn.
+- [Interactive Portfolio](https://github.com/PabloH5/GamePortfolio) - This is my interactive portfolio. I have designed this space as a 2D game developed in Unity for you to explore my skills and projects in a unique, interactive, and fun way. Has some features like Built in Unity Engine 2D, Original assets and sprite creation, Gamification and Immersion and Retro Gameboy Theme.
 
 ## Find Me Elsewhere 🔭
 - [LinkedIn](https://www.linkedin.com/in/yourlinkedinprofile)
