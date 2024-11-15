@@ -1,23 +1,19 @@
 # Hello, I'm Juan Pablo Martinez! 👋
 
 ## About Me 🛸
-Eighth-semester Multimedia Engineering student at Universidad Autónoma de Occidente, I thrive in the digital landscape where I mold the future of interactive entertainment. My code dances to the rhythm of **C#** and the innovative features of **Unity**, as I blend imagination with technology to shape immersive experiences.
-
-## My Interests 🔍
-- **Game Development:** Developing compelling 2D and 3D games, leveraging Unity to push the boundaries of interactive storytelling and player engagement.
-- **Machine Learning & Deep Learning:** Implementing advanced algorithms and neural networks to enhance system intelligence and automate complex tasks.
-- **Artificial Intelligence in Games:** Integrating AI to create dynamic gaming environments, where characters learn and adapt through reinforcement learning.
+I'm Multimedia Engineering, I am passionate about developing video games and playing them, I like to learn new things and always with curiosity as a tool to grow. I have experience developing video games in Unity and Godot.
 
 ## Projects 🏁🛠️
 You can explore my portfolio of projects, which includes:
 - [Interactive Portfolio](https://github.com/PabloH5/GamePortfolio) - This is my interactive portfolio. I have designed this space as a 2D game developed in Unity for you to explore my skills and projects in a unique, interactive, and fun way. Has some features like Built in Unity Engine 2D, Original assets and sprite creation, Gamification and Immersion and Retro Gameboy Theme.
-- [El Golazo Champions](https://github.com/PabloH5/El-Golazo-Champions) - Transform the passion of soccer into a Virtual Reality spectacle. Amidst the roaring crowd and the Champions League anthem, this project invites users to step into the shoes of their soccer heroes, crafting their signature cleats with "El Golazo".
-- [PeraHunter](https://github.com/PabloH5/PeraHunter) - Dive into a 2D RPG adventure with a top-down perspective. Challenge yourself to strategize and conquer the enigmatic boss Furier using an arsenal of inventive attacks.
-- [Thermo Racing](https://github.com/PabloH5/Thermo-Racing) - 👀 Coming soon... Let Me Cook
+- [El Golazo Champions](https://github.com/PabloH5/El-Golazo-Champions) - Transform the passion of soccer into a Virtual Reality spectacle. Amidst the roaring crowd and the Champions League anthem, this project invites users to step into the shoes of their soccer heroes, crafting their signature cleats with "El Golazo". I was part of the team as a developer.
+- [Thermo Racing](https://github.com/PabloH5/Thermo-Racing) - Thermo Racing is an interactive multimedia system designed to aid engineering students in mastering the first and second laws of thermodynamics. This system utilizes gamification and real-time calculations to provide an engaging and practical learning experience through mini-games and competitive Go-Kart racing scenarios. I was part of the team as a developer in karts movement and scrum master.
+- [Catzzeria Delivery Service](https://pablitoh5.itch.io/catzzeria) This is a submission for the Game Jam + 24/25. In this 3D game, you take on the role of a cat delivering pizzas on a motorcycle while exploring a city that's randomly generated each game. Enjoy lo-fi music and customize your bike for a relaxing and unique experience. I was part of the project as developer in a random buildings spawn.
 
 ## Find Me Elsewhere 🔭
 - [LinkedIn](https://www.linkedin.com/in/yourlinkedinprofile)
 - [Portfolio](https://github.com/PabloH5)
+- [Itch](https://pablitoh5.itch.io/)
 
 ## Let's Build Something Amazing Together!
 I'm keen to collaborate on projects that fuse the dynamics of video games with the transformative potential of AI. If you're in the field of tech and game development, let's connect and innovate together.
